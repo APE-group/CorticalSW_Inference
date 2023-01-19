@@ -1,3 +1,21 @@
 Data/
 Output/
 
+DataAnalysisWorkflow/settings.py
+DataAnalysisWorkflow/__pycache__
+DataAnalysisWorkflow/report.rst
+
+
+
+DataAnalysisWorkflow/.snakemake
+DataAnalysisWorkflow/*/.snakemake
+DataAnalysisWorkflow/*/*/.snakemake
+DataAnalysisWorkflow/settings.py
+DataAnalysisWorkflow/report.rst
+DataAnalysisWorkflow/*/report.rst
+DataAnalysisWorkflow/*/*/report.rst
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
