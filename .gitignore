@@ -1,5 +1,7 @@
 Data/
 Output/
+OutputPlot/
+PostPipelineAnalysis_TopoInferito/
 
 DataAnalysisWorkflow/settings.py
 DataAnalysisWorkflow/__pycache__
