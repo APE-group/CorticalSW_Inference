@@ -7,7 +7,7 @@ Capone, Cristiano, et al. "Simulations Approaching Data: Cortical Slow Waves in 
 Data used are available in the EBRAINS Knowledge Graph [platform](https://kg.ebrains.eu/search/instances/Dataset/28e65cf1-ce13-4c12-92dc-743b0cb66862).
 
 The paper articulates in the following steps:
-* Inner Loop: inference parameters though maximum likelihood methd -> to execute this stage run -----
+* Inner Loop: inference parameters though maximum likelihood methd -> to execute this stage run the matlab codes 'InnerLoop.mat' and 'OuterLoop.mat' in the 'Inference' folder
 * Data convolution -> (for simulated data) to execute this stage run the code within DataConvolution directory
 * Cobrawap pipeline application -> to run thi stage follow instruction within the DataAnalysisWorkflow directory
 
